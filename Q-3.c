@@ -21,7 +21,5 @@ int main() {
         i++;
     }
 
-    printf("Toggled string: %s\n", str);
-
-    return 0;
+    printf("Toggled string: %s\n", str);    
 }
